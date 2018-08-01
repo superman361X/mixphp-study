@@ -2,8 +2,6 @@
 
 namespace apps\index\controllers;
 
-use apps\index\models\Container;
-use apps\index\models\PaypalLogin;
 use apps\index\models\UserForm;
 use mix\facades\Redis;
 use mix\facades\Request;
